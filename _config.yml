@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jennifer A. Wu"
-  avatar           : "profile.png"
+  avatar           : "Subject.png"
   bio              : "Ph.D. candidate in political science at Stanford University"
   location         : 
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jenniferawu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jenniferw840/"
   orcid            : "https://orcid.org/0000-0002-8888-1898"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "imjenwu"
   vine             :
   weibo            :
   xing             :
