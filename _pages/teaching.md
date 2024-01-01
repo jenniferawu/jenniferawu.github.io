@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: false
 ---
 
-Please contact me at <a href="mailto:jwu19@stanford.edu">jwu19@stanford.edu</a> for course materials and more information.
+Please contact me at [jwu19@stanford.edu](mailto:jwu19@stanford.edu) for course materials and more information.
 
 
 Teaching Assistant, DATASCI 154 Solving Social Problems with Data taught by Jeremy Weinstein
