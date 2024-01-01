@@ -6,10 +6,10 @@ author_profile: false
 ---
 
 {% include base_path %}
-Selected works in progress:
+## Selected works in progress:
 
 
-Publications: 
+## Publications: 
 
 <!---{% for post in site.publications reversed %}
   {% include archive-single.html %}
