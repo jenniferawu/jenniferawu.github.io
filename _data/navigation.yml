@@ -1,12 +1,10 @@
-# main links links
+# main links
 main:
-  - title: "CV"
-    url: /cv/
-
   - title: "Research"
     url: /research/
  
-
   - title: "Teaching"
     url: /teaching/    
    
+  - title: "CV"
+    url: https://www.dropbox.com/scl/fi/54iz9do4krqjs56ctzmia/wu_cv.pdf?rlkey=s6kva0t7tubnkumma55qg9m53&dl=0
