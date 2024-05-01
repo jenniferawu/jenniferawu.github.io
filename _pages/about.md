@@ -15,4 +15,4 @@ Hi! I'm Jen. Currently, I am a Ph.D. candidate at Stanford University in America
 [The Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/){:target="_blank"}
 
 
-Not the right Jen Wu? Could you be looking for Jennifer D. Wu at [jen-wu.com](https://www.jen-wu.com/){:target="_blank"}? She got her PhD at Yale University in 2023, and her research focuses on race, identity, and behavior in American politics! Check her out either way.
+Check out Jennifer D. Wu at [jen-wu.com](https://www.jen-wu.com/){:target="_blank"} while you're around! She got her PhD at Yale University in 2023, and her research focuses on race, identity, and behavior in American politics.
