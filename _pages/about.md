@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jen. Currently, I am a Ph.D. candidate at Stanford University in American Politics and Political Methodology. My research uses surveys and text analysis methods to study what politicians in the United States are saying and how their statements are perceived by the public. I'm particularly interested in politician incentives to be uncivil and the consequences of their words.
+Hi! I'm Jen. Currently, I am a Ph.D. candidate at Stanford University in American Politics and Political Methodology. I graduated from Dartmouth College with a BA in Quantitative Social Science, with minors in Government and Japanese.
+
+My research uses surveys and text analysis methods to study what politicians in the United States are saying and how their statements are perceived by the public. I am particularly interested in politician incentives to be uncivil and the consequences of their words.
 
 ## Affiliations 
 
