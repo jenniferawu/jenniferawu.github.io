@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 ## Selected works in progress:
-Politician Incivility in the United States: Toward a Perspectivist Measure. 
+Measuring Politician Incivility in the United States: Toward Preserving Differences in Evaluation
 
 Are dead people voting by mail? Evidence from Washington state administrative records. With Chenoa Yorgason, Hanna Folsz, Sandy Handan-Nader, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, Jesse Yoder, and Andrew B. Hall [\<link\>](https://stanforddpl.org/papers/wu_et_al_2020_dead_voting/wu_et_al_2020_dead_voting.pdf){:target="_blank"}
 
