@@ -17,4 +17,4 @@ My research uses surveys and text analysis methods to study what politicians in 
 [The Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/){:target="_blank"}
 
 
-> <sub> In case you are looking for Jennifer D. Wu, who is an Assistant Professor at SUNY Binghamton studying race, identity, and behavior in American politics, her website is at [jen-wu.com](https://www.jen-wu.com/){:target="_blank"}. </sub>
+<sub>If you are looking for Jennifer D. Wu (Assistant Professor at SUNY Binghamton studying race, identity, and behavior in American politics), her website is at [jen-wu.com](https://www.jen-wu.com/){:target="_blank"}. </sub>
