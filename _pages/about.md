@@ -17,4 +17,4 @@ My research uses surveys and text analysis methods to study what politicians in 
 [The Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/){:target="_blank"}
 
 
-Check out Jennifer D. Wu at [jen-wu.com](https://www.jen-wu.com/){:target="_blank"} while you're around! She got her PhD at Yale University in 2023, and her research focuses on race, identity, and behavior in American politics.
+> <sub> In case you are looking for Jennifer D. Wu, who is an Assistant Professor at SUNY Binghamton studying race, identity, and behavior in American politics, her website is at [jen-wu.com](https://www.jen-wu.com/){:target="_blank"}. </sub>
