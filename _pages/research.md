@@ -9,7 +9,7 @@ author_profile: false
 * Politician Incivility in the United States: Toward Preserving Disagreement in Evaluation
 
 ## Publications: 
-* Wu, Jennifer A., Chenoa Yorgason, Hanna Folsz, Sandy Handan-Nader, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, Jesse Yoder, and Andrew B. Hall. (2024)  Are Dead People Voting by Mail: Evidence from Washington State Administrative Data. [\<link\>](files/Wu_et_al_Fraud.pdf){:target="_blank"}
+* Wu, Jennifer A., Chenoa Yorgason, Hanna Folsz, Sandy Handan-Nader, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, Jesse Yoder, and Andrew B. Hall. (2024)  Are Dead People Voting by Mail: Evidence from Washington State Administrative Data. [\<link\>](/files/Wu_et_al_Fraud.pdf){:target="_blank"}
 
 * Agadjanian, Alexander, Jacob Cruger, Sydney House, Annie Huang, Noah Kanter et al. (2023) “A Platform Penalty for News? How Social Media Context Can Alter Information Credibility Online.” Journal of Information Technology & Politics 20 (3): 338–48.[\<link\>](https://doi.org/10.1080/19331681.2022.2105465){:target="_blank"}
 
