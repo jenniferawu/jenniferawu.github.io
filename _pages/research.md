@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: false
 ---
 
-## Selected works in progress:
-* Politician Incivility in the United States: Toward Preserving Disagreement in Evaluation
+## Working papers:
+* Politician Incivility in the United States: Toward Preserving Disagreement in Evaluation (Under Review)
 
 ## Publications: 
 * Wu, Jennifer A., Chenoa Yorgason, Hanna Folsz, Sandy Handan-Nader, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, Jesse Yoder, and Andrew B. Hall. Are Dead People Voting by Mail: Evidence from Washington State Administrative Data. Forthcoming. Election Law Journal. [\<link\>](/files/Wu_et_al_Fraud.pdf){:target="_blank"}
@@ -17,3 +17,5 @@ author_profile: false
 
 * Thompson, Daniel M., Jennifer A. Wu, Jesse Yoder, and Andrew B. Hall (2020) “Universal Vote-by-Mail Has No Impact on Partisan Turnout or Vote Share.” Proceedings of the National Academy of Sciences 117 (25): 14052–56. 
 [\<link\>](https://doi.org/10.1073/pnas.2007249117){:target="_blank"}
+
+## Works in progress:
