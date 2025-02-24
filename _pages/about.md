@@ -22,6 +22,7 @@ My research uses surveys and text analysis methods to study politician messaging
 ## Affiliations 
 
 [The Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/){:target="_blank"}
+
 [Institute for Research in the Social Sciences, Center for American Democracy @ Stanford](https://iriss.stanford.edu/people/jen-wu){:target="_blank"}
 
 
