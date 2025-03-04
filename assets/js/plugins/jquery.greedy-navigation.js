@@ -33,13 +33,13 @@ function updateNav() {
   // The visible list is not overflowing
   } else {
 
-    // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
+    // // There is space for another item in the nav
+    // if(availableSpace > breaks[breaks.length-1]) {
 
-      // Move the item to the visible list
-      $hlinks.children().first().appendTo($vlinks);
-      breaks.pop();
-    }
+    //   // Move the item to the visible list
+    //   $hlinks.children().first().appendTo($vlinks);
+    //   breaks.pop();
+    // }
 
     // Hide the dropdown btn if hidden list is empty
     if(breaks.length < 1) {
