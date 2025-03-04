@@ -40,23 +40,24 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-
 /* Custom styles */
-#main {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 2em;
+.archive {
+  @include breakpoint($large) {
+    @include span(12 of 12);
+    @include prefix(0 of 12);
   }
-  
-  .page {
-    @include breakpoint($large) {
-      @include span(12 of 12);
-      @include prefix(0 of 12);
-      @include suffix(0 of 12);
-    }
+}
+
+.list__item {
+  @include breakpoint($medium) {
+    padding-right: 0;
   }
-  
-  .page__content {
-    max-width: 800px;
-    margin: 0 auto;
+
+  @include breakpoint($large) {
+    padding-right: 0;
   }
+
+  @include breakpoint($x-large) {
+    padding-right: 0;
+  }
+}
