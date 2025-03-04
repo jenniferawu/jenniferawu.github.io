@@ -64,26 +64,45 @@
   }
 }
 
-/* Custom navigation button styles */
+/* Custom navigation styles */
 .greedy-nav {
-  button {
-    background-color: transparent;
+
+  .visible-links {
+    @include breakpoint($medium) {
+      display: none;
+    }
+  }
+
+  .hidden-links {
+    display: none;
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background: $background-color;
     border: 1px solid $border-color;
     border-radius: 4px;
-    padding: 0.5rem 1rem;
-    margin: 0.5rem;
-    color: $masthead-link-color;
-    transition: all 0.2s ease-in-out;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 0.5rem;
+    min-width: 200px;
+    z-index: 5;
 
-    &:hover {
-      background-color: $primary-color;
-      color: #fff;
-      border-color: $primary-color;
+    &.hidden {
+      display: none;
     }
 
-    &:focus {
-      outline: none;
-      box-shadow: 0 0 0 2px rgba($primary-color, 0.2);
+    li {
+      display: block;
+      margin: 0.5rem 0;
+    }
+  }
+
+  &.show {
+    .visible-links {
+      display: none;
+    }
+
+    .hidden-links {
+      display: block;
     }
   }
 }
