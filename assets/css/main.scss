@@ -66,11 +66,8 @@
 
 /* Custom navigation styles */
 .greedy-nav {
-
   .visible-links {
-    @include breakpoint($medium) {
-      display: none;
-    }
+    display: none;
   }
 
   .hidden-links {
