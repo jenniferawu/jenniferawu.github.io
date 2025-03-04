@@ -45,8 +45,8 @@
   @include breakpoint($large) {
     @include span(12 of 12);
     @include prefix(0 of 12);
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 5em;
+    padding-right: 5em;
   }
 }
 
@@ -61,5 +61,29 @@
 
   @include breakpoint($x-large) {
     padding-right: 0;
+  }
+}
+
+/* Custom navigation button styles */
+.greedy-nav {
+  button {
+    background-color: transparent;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    color: $masthead-link-color;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      background-color: $primary-color;
+      color: #fff;
+      border-color: $primary-color;
+    }
+
+    &:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px rgba($primary-color, 0.2);
+    }
   }
 }
