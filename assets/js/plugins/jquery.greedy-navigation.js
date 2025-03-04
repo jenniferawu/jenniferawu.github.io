@@ -13,6 +13,7 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
+
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
   // The visible list is overflowing the nav
@@ -26,6 +27,8 @@ function updateNav() {
     if($btn.hasClass('hidden')) {
       $btn.removeClass('hidden');
     }
+
+  // The visible list is not overflowing
   } else {
     // Hide the dropdown btn if hidden list is empty
     if(breaks.length < 1) {
