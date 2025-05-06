@@ -9,8 +9,7 @@ author_profile: false
 Please contact me at [jwu19@stanford.edu](mailto:jwu19@stanford.edu) for working papers.
 
 * "Politician Incivility in the United States: Toward Preserving Disagreement in Evaluation" (Under Review)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <details> <summary>Abstract</summary>
+<details> <summary>Abstract</summary>
 <br>
 I argue that capturing different group perceptions of politician incivility contributes to our understanding of politicians' incentives. While an objective classification goal makes sense in certain contexts, such as interpreting documents for law, there are other cases where disagreement among coders is informative. For example, how politicians' speech is interpreted by different groups of voters can influence how politicians communicate.
 Using over 500 real statements by U.S. members of Congress in two survey experiments, I find voters perceive statements made by out-partisan politicians as uncivil more often than those made by co-partisan ones. ßThen, I provide a supervised text method to study when and how much partisans disagree on a comment's incivility. Using this method, I find that greater disagreement is correlated with ideological extremity of the politician who made the statement and statements with more negative words. Overall, the results suggest that disagreement contains pertinent information to understanding politician incentives. 
