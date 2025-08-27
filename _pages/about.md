@@ -25,6 +25,6 @@ My research uses surveys and text analysis methods to study politician messaging
 
 [Center for American Democracy @ Stanford Institute for Research in the Social Sciences](https://iriss.stanford.edu/people/jen-wu){:target="_blank"}
 
-[Graduate Fellow @ Stanford Research Computing](https://iriss.stanford.edu/people/jen-wu){:target="_blank"}
+[Graduate Fellow @ Stanford Research Computing](https://srcc.stanford.edu/src_grad_fellowship/past-and-present-fellows){:target="_blank"}
 
 <p class="caption"> If you are looking for Jennifer D. Wu (Assistant Professor at SUNY Binghamton studying race, identity, and behavior in American politics), find her website at <a href="https://www.jen-wu.com" target="_blank">jen-wu.com</a>.</p>
