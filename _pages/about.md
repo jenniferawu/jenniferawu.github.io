@@ -21,10 +21,13 @@ My research uses surveys and text analysis methods to study politician messaging
 
 ## Affiliations 
 
-[Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/){:target="_blank"}
+ I am supported by a research assistantship through the [Center for Revitalizing American Institutions at the Hoover Institution](https://www.hoover.org/research-teams/center-revitalizing-american-institutions){:target="_blank"} for my sixth and final year.
+
+[Graduate Fellow @ Stanford Research Computing](https://srcc.stanford.edu/src_grad_fellowship/past-and-present-fellows){:target="_blank"}
 
 [Center for American Democracy @ Stanford Institute for Research in the Social Sciences](https://iriss.stanford.edu/people/jen-wu){:target="_blank"}
 
-[Graduate Fellow @ Stanford Research Computing](https://srcc.stanford.edu/src_grad_fellowship/past-and-present-fellows){:target="_blank"}
+[Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/){:target="_blank"}
+
 
 <p class="caption"> If you are looking for Jennifer D. Wu (Assistant Professor at SUNY Binghamton studying race, identity, and behavior in American politics), find her website at <a href="https://www.jen-wu.com" target="_blank">jen-wu.com</a>.</p>
