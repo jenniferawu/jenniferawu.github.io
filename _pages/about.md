@@ -15,7 +15,7 @@ p.caption {
 }
 </style>
 
-Hello! I'm Jen. I am currently a Ph.D. candidate at Stanford University, specializing in American Politics and Political Methodology. I hold a BA in Quantitative Social Science from Dartmouth College, where I also completed minors in Government and Japanese.
+Hello! I'm Jen. I am currently a 6th year Ph.D. candidate at Stanford University, specializing in American Politics and Political Methodology. I hold a BA in Quantitative Social Science from Dartmouth College, where I also completed minors in Government and Japanese.
 
 My research uses surveys and text analysis methods to study politician messaging in the United States and how voters perceive their statements. I focus on differences in how Democratic and Republican voters perceive politicians. I am particularly interested in what these differences mean for politician incentives to be uncivil and the consequences of their words.
 

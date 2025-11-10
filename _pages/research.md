@@ -20,7 +20,19 @@ Please contact me at [jwu19@stanford.edu](mailto:jwu19@stanford.edu) for working
 <div class="indent">
 <details> 
 <summary>Abstract</summary>
-When do politicians communicate in uncivil ways? Current research approaches this question by theorizing incivility as a fixed property of the text. In practice, politicians are being judged by voters who view incivility through a partisan lens. Using two survey experiments and over 500 real statements made by members of the U.S. Congress, I show that perceptions of incivility differ by whether a statement was made by a co-partisan politician or not, though not uniformly so. I find that this co-partisan difference is greater for politician statements made in e-mail newsletters than those made on the Congressional floor. While Democrats and Republicans tend to find statements made by co-partisan politicians less uncivil, not all statements elicit the same difference. I introduce a method to estimate the degree of partisan disagreement over incivility at the statement level. Using the method, I find Republican politicians make statements that evoke disagreement more often than Democratic politicians do. These findings suggest depending on whose judgement of incivility we consider, we draw different conclusions on a politician's communications, especially for Republican politicians. 
+Concerns about rising incivility in American politics often assume a shared understanding of what constitutes uncivil discourse. Yet citizens do not evaluate political communication uniformly. Using two survey experiments and over 500 real statements made by members of the U.S. Congress, I show that perceptions of incivility differ by whether a statement was made by a co-partisan politician or not, though not uniformly so. I find that this co-partisan difference is greater for politician statements made in e-mail newsletters than those made on the Congressional floor. While Democrats and Republicans tend to find statements made by co-partisan politicians less uncivil, not all statements elicit the same difference. I introduce a method to estimate the degree of partisan disagreement over incivility at the statement level. Using the method and my survey data, I find Republican politicians make statements that evoke disagreement more often than Democratic politicians do. These findings suggest depending on whose judgement of incivility we consider, we draw different conclusions on a politician's communications, especially for Republican politicians. 
+</details>
+</div>
+
+
+* When do Democrats and Republicans disagree?: Perceptions of Incivility of Congressional comments
+
+<div class="indent">
+<details> 
+<summary>Abstract</summary>
+When do politicians communicate in uncivil ways? Current research approaches this question by theorizing incivility as a fixed property of the text. In practice, politicians are being judged by voters who view incivility through a partisan lens. To study voters' perceptions of incivility, I use over 39,000 real comments made by politicians on the Congress floor, which are then coded by large language models trained on Democrats or Republicans from a survey. I find that while Democratic and Republican voters tend to agree on what is civil, they disagree on what is uncivil. Similar words predict perceived civility among Democrats and Republicans, but words that predict incivility are different.
+Using a method to capture disagreement in perceptions of incivility, I find that if the comment was an attack or was made by a politician with more extreme ideology, people are more likely to disagree on the incivility of the comment. Furthermore, several topics, such as immigration, rights and minority issues, and health and social welfare are more likely to predict disagreement between Democrats and Republicans. 
+My findings suggest that while Democrats and Republicans agree on what comments are not uncivil, disagreement in ratings emerge as comments become rated as uncivil by one group. Greater disagreement is associated with the topic of the comment, whether the comment was an attack, and the ideology of who made the comment.
 </details>
 </div>
 
@@ -60,4 +72,4 @@ In response to coronavirus disease 2019 (COVID-19), many scholars and policy mak
 </div>
 
 ## Works in Progress
-"Who is uncivil: Views of members of Congress by a Democratic and Republican public"
+* Incivility and campaign finance
